@@ -7,10 +7,3 @@ Git 仓库
 
 
 > An awesome project.
-
-
-
-
-
- [<<操作指南](guide.md) 
-
